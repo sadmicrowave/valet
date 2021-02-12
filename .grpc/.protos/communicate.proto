@@ -1,0 +1,18 @@
+syntax = "proto3";
+ 
+package valet;
+ 
+service Communicate {
+ 
+	rpc Say ( RequestMessage ) returns ( ReplyMessage ) { }
+
+}
+ 
+message RequestMessage {
+	repeated string message = 1;
+}
+ 
+message ReplyMessage {
+	int64 status	= 1;
+	optional string message	= 2;
+}
