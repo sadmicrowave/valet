@@ -1,6 +1,6 @@
 
 ## Valet
-Personal .Everything. Bot.  
+Personal .Everything. Bot.  Valet is a deep-machine-learning personal assistant chatbot written in python.
 
 	  ___      ___ ________  ___       _______  _________   
 	 |\  \    /  /|\   __  \|\  \     |\  ___ \|\___   ___\ 
@@ -21,9 +21,6 @@ Personal .Everything. Bot.
 		https://soshnikov.com/azure/deep-pavlov-answers-covid-questions/
 		https://colab.research.google.com/github/deepmipt/dp_notebooks/blob/master/DP_ODQA.ipynb#scrollTo=wWoVzv9QBYni
 
-
-
-Valet is a deep-machine-learning personal assistant chatbot written in python.
 
 
 ### Wireframe
